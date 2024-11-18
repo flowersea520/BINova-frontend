@@ -10,8 +10,8 @@ const Footer: React.FC = () => {
       }}
       links={[
         {
-          key: 'Ant Design Pro',
-          title: 'Ant Design Pro',
+          key: 'Nova BI',
+          title: 'Nova BI',
           href: 'https://pro.ant.design',
           blankTarget: true,
         },
@@ -22,12 +22,13 @@ const Footer: React.FC = () => {
           blankTarget: true,
         },
         {
-          key: 'Ant Design',
-          title: 'Ant Design',
+          key: 'Nova BI',
+          title: 'Nova BI',
           href: 'https://ant.design',
           blankTarget: true,
         },
       ]}
+      copyright=" 2024 云厂出品"
     />
   );
 };
